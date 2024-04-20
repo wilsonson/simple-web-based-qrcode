@@ -1,0 +1,16 @@
+{
+  "name": "simple-web-based-qrcode",
+  "version": "1.0.0",
+  "description": "A simple web to serve QR code which compatibile to Google Chart API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "qrcode": "^1.5.3"
+  }
+}
